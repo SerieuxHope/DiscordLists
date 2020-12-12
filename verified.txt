@@ -168,7 +168,7 @@ discord.gg/bluestacks-ru
 discord.gg/bluestacksbrasil
 discord.gg/bluestacksde
 discord.gg/bluestacksfrance
-discord.gg/bluestacksindia
+discord.gg/bluestacks
 discord.gg/bluestacksit
 discord.gg/bluestackslatam
 discord.gg/bluestacksme
@@ -1165,6 +1165,7 @@ discord.gg/pterodactyl
 discord.gg/pubg-brasil
 discord.gg/pubglite
 discord.gg/pubgm
+discord.gg/pubgm-india
 discord.gg/pubgm-mena
 discord.gg/pubgmde
 discord.gg/pubgmesp
